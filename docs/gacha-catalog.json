@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-09-21",
+  "version": 6,
+  "updatedAt": "2026-09-28",
   "series": [
     {
       "id": "pokemon",
@@ -320,6 +320,26 @@
     {
       "id": "db0a63d1",
       "name": "魚・水中の生き物",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "3607c9f9",
+      "name": "おじゃる丸",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "61e625d0",
+      "name": "飲み物",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "ec144697",
+      "name": "ちびまる子ちゃん",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "07b31d7d",
+      "name": "平成レトロ",
       "accentColor": "#6366f1"
     }
   ],
@@ -27929,7 +27949,1233 @@
           "charColor": "#22c55e"
         }
       ]
+    },
+    {
+      "id": "gi-fd68876f",
+      "seriesId": "8920ae12",
+      "seriesName": "キャラクター・マスコット",
+      "title": "ぴよりん エコバッグvol.2",
+      "maker": "ウルトラニュープランニング",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.09",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/HS8yShgbYAArAKN-259x300.jpg",
+      "items": [
+        {
+          "id": "gi-fd68876f-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-fd68876f-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-fd68876f-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-fd68876f-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-0584f412",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ スクールクッションミニキーホルダー",
+      "maker": "ベネリック",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.09",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/サンリオキャラクターズ-スクールクッションミニキーホルダー_SNS-01-768x768-1-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-0584f412-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-0584f412-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-0584f412-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-0584f412-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-0584f412-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-e2b66a3c",
+      "seriesId": "db0a63d1",
+      "seriesName": "魚・水中の生き物",
+      "title": "ベビーウミウシ ぷちマークチャーム",
+      "maker": "ホットライン",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.12",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/01_ﾍﾞﾋﾞｰｳﾐｳｼﾌﾟﾁﾏｰｸﾁｬｰﾑ_w-272x300.jpg",
+      "items": [
+        {
+          "id": "gi-e2b66a3c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-e2b66a3c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-e2b66a3c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-e2b66a3c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-e2b66a3c-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-eed1e49c",
+      "seriesId": "9b80faca",
+      "seriesName": "芸能人・アイドル",
+      "title": "RIIZE つまんでつなげてますこっと でらっくす! LITTLE RIIZE ver.",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gacha",
+      "release": "2027.02",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/riize_tsumande_deluxe_main-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-eed1e49c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-eed1e49c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-eed1e49c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-eed1e49c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-eed1e49c-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-eed1e49c-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-eed1e49c-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-eed1e49c-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-0c940a36",
+      "seriesId": "e387ebc9",
+      "seriesName": "アニメ・漫画・ゲーム",
+      "title": "Among Us めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/amongus_mejirushi_main-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-0c940a36-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-0c940a36-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-0c940a36-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-0c940a36-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-0c940a36-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-0c940a36-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-0c940a36-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-0c940a36-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-88281847",
+      "seriesId": "3607c9f9",
+      "seriesName": "おじゃる丸",
+      "title": "おじゃる丸 ぬいぐるみボールチェーン2（再販）",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.12",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/01/Ojarumaru_Plush_Toy2_DP03_nyukou-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-88281847-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-88281847-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-88281847-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-88281847-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-3b01ee04",
+      "seriesId": "23ba21e7",
+      "seriesName": "食べ物",
+      "title": "チキンラーメンひよこちゃん めじるしアクリルチャーム（再販）",
+      "maker": "夢屋",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.12",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/hiyokochan_mejirushi_KH_DP05_ol-2-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-3b01ee04-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-3b01ee04-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-3b01ee04-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-3b01ee04-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-3b01ee04-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-abba3e46",
+      "seriesId": "e387ebc9",
+      "seriesName": "アニメ・漫画・ゲーム",
+      "title": "幽☆遊☆白書 ぬいぐるみマスコット",
+      "maker": "ケイカンパニー",
+      "price": 500,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/GC_YU_NM_POPrs-768x686-1-300x268.jpg",
+      "items": [
+        {
+          "id": "gi-abba3e46-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-abba3e46-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-abba3e46-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-abba3e46-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-abba3e46-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-abba3e46-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-abba3e46-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        }
+      ]
+    },
+    {
+      "id": "gi-bd447d8b",
+      "seriesId": "39eb247e",
+      "seriesName": "アート・デザイン",
+      "title": "絵画の子",
+      "maker": "コトフル",
+      "price": 400,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/HS9kOlDbsAARm8E-259x300.jpg",
+      "items": [
+        {
+          "id": "gi-bd447d8b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-bd447d8b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-bd447d8b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-bd447d8b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-749d1f23",
+      "seriesId": "61e625d0",
+      "seriesName": "飲み物",
+      "title": "MILKボトル ホロシャカめじるし",
+      "maker": "クオリア",
+      "price": 300,
+      "category": "gacha",
+      "release": "2027.02",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/HS9bPx3a8AAG3bz-300x270.jpg",
+      "items": [
+        {
+          "id": "gi-749d1f23-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-749d1f23-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-749d1f23-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-749d1f23-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-749d1f23-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-f938f6ff",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオ シュガーバニーズ フィンガーパペット",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/Sugarbunnies_finger-puppet-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-f938f6ff-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-f938f6ff-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-f938f6ff-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-f938f6ff-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-ce0d9197",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオ ポムポムプリン どこでもぬいぐるみチャーム",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/pomupomupurin_Phonecharms_DP_annai_omotea-1-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-ce0d9197-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-ce0d9197-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-ce0d9197-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-ce0d9197-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-415537a0",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオ ハンギョドン エコバッグ2",
+      "maker": "夢屋",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/Hangyodon_ecobag_DP-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-415537a0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-415537a0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-415537a0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-415537a0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-4dd2ce0c",
+      "seriesId": "3607c9f9",
+      "seriesName": "おじゃる丸",
+      "title": "おじゃる丸 ぬいぐるみおなまえホルダー",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/Ojarumaru_Plush_Name_Holder_DP_06_nyukou-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-4dd2ce0c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-4dd2ce0c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-4dd2ce0c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-4dd2ce0c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-9deddf81",
+      "seriesId": "ec144697",
+      "seriesName": "ちびまる子ちゃん",
+      "title": "MARUKO and MONCHHICHI おしゃれポシェット",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/MARUKOandMONCHHICHI_StylishPouch_DP_nyukou_01_ol-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-9deddf81-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-9deddf81-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-9deddf81-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-9deddf81-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-b893d0b6",
+      "seriesId": "07b31d7d",
+      "seriesName": "平成レトロ",
+      "title": "ミルモでポン ぬいぐるみポーチ",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/Mirumo-de-Pon_nuigurumi_pouch_DP-1-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-b893d0b6-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-b893d0b6-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-b893d0b6-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-b893d0b6-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-62141c79",
+      "seriesId": "9b80faca",
+      "seriesName": "芸能人・アイドル",
+      "title": "ドズル社 ぎゅーこっと",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/dozle_gyucot_main-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-62141c79-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-62141c79-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-62141c79-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-62141c79-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-62141c79-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-498965b1",
+      "seriesId": "9b80faca",
+      "seriesName": "芸能人・アイドル",
+      "title": "コレサワ れ子ちゃん めじるしマスコット",
+      "maker": "リアンキューラボ",
+      "price": 400,
+      "category": "gacha",
+      "release": "2027.02",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/HS9tpTpbMAAKUQw-242x300.jpg",
+      "items": [
+        {
+          "id": "gi-498965b1-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-498965b1-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-498965b1-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-498965b1-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-498965b1-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-e0b80813",
+      "seriesId": "7518397c",
+      "seriesName": "レトロ",
+      "title": "にこにこ、ぷん ぬいぐるみスマホチャーム",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/09/NikoNikoPun__phones_charm-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-e0b80813-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-e0b80813-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-e0b80813-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-e0b80813-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-eed1e49c",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "RIIZE つまんでつなげてますこっと でらっくす! LITTLE RIIZE ver.",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258025_2.jpg",
+      "items": [
+        {
+          "id": "bd-eed1e49c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-eed1e49c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-eed1e49c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-eed1e49c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-2a20040e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "SKZOO フーディースタイルフィギュア",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258042_2.jpg",
+      "items": [
+        {
+          "id": "bd-2a20040e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-2a20040e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-2a20040e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-2a20040e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-aa93eab2",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】miffy Glint Series",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258530_1.jpg",
+      "items": [
+        {
+          "id": "bd-aa93eab2-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-aa93eab2-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-aa93eab2-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-aa93eab2-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c62418fa",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】atmos TENKYU フィギュアコレクション",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258550_1.jpg",
+      "items": [
+        {
+          "id": "bd-c62418fa-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c62418fa-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c62418fa-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c62418fa-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-bb8e815b",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】LilGemily figure collection",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258562_1.jpg",
+      "items": [
+        {
+          "id": "bd-bb8e815b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-bb8e815b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-bb8e815b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-bb8e815b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ba400749",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】かえちゃんふぃぎゅあ designed by 田中かえ",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258628_1.jpg",
+      "items": [
+        {
+          "id": "bd-ba400749-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ba400749-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ba400749-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ba400749-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-7334a8cf",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【ガシャポンバンダイオフィシャルショップ限定】【CAP'in GALLERY】VIRUSWEETS figure collection ～trick or treat～",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000256615_1.jpg",
+      "items": [
+        {
+          "id": "bd-7334a8cf-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-7334a8cf-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-7334a8cf-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-7334a8cf-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-4e89d12e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "wiggle wiggle カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.09",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000256797_1.jpg",
+      "items": [
+        {
+          "id": "bd-4e89d12e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-4e89d12e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-4e89d12e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-4e89d12e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
     }
   ],
-  "lastChecked": "2026-09-21"
+  "lastChecked": "2026-09-28"
 }
