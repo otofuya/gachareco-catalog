@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-10-05",
+  "version": 8,
+  "updatedAt": "2026-10-12",
   "series": [
     {
       "id": "pokemon",
@@ -370,6 +370,51 @@
     {
       "id": "06ffe735",
       "name": "音楽・楽器",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "ba2052be",
+      "name": "映画・ドラマ",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "8b0e85eb",
+      "name": "パワーパフガールズ",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "427f2ac2",
+      "name": "銀魂",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "a4fb19fb",
+      "name": "おジャ魔女どれみ",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "cd47ac9b",
+      "name": "MINECRAFT",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "61418566",
+      "name": "ケロロ軍曹",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "3d4f3114",
+      "name": "とっとこハム太郎",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "debfa72f",
+      "name": "歴史・文明",
+      "accentColor": "#6366f1"
+    },
+    {
+      "id": "4b256d51",
+      "name": "フルーツ",
       "accentColor": "#6366f1"
     }
   ],
@@ -35206,7 +35251,4722 @@
           "charColor": "#22c55e"
         }
       ]
+    },
+    {
+      "id": "gi-897a3554",
+      "seriesId": "ba2052be",
+      "seriesName": "映画・ドラマ",
+      "title": "グレムリン ぬいぐるみマスコット",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/gashapon-4570118181589-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-897a3554-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-897a3554-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-897a3554-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-897a3554-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-897a3554-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-9fed402b",
+      "seriesId": "8b0e85eb",
+      "seriesName": "パワーパフガールズ",
+      "title": "パワーパフ ガールズ めじるしアクセサリー3",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HUEbextbQAA6uRg-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-9fed402b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-9fed402b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-9fed402b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-9fed402b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-9fed402b-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-9fed402b-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-9fed402b-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        }
+      ]
+    },
+    {
+      "id": "gi-87e0187e",
+      "seriesId": "427f2ac2",
+      "seriesName": "銀魂",
+      "title": "るかっぷミニチュアコレクション 銀魂",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/1000259512_1-256x300.jpg",
+      "items": [
+        {
+          "id": "gi-87e0187e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-87e0187e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-87e0187e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-87e0187e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-319d680c",
+      "seriesId": "a4fb19fb",
+      "seriesName": "おジャ魔女どれみ",
+      "title": "おジャ魔女どれみ めじるしアクセサリー ポロンタップver.1（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/03/1000251592_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-319d680c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-319d680c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-319d680c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-319d680c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-319d680c-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-319d680c-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-319d680c-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-319d680c-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-d98d9413",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ ジェリーデコバンド（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/05/1000250066_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-d98d9413-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-d98d9413-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-d98d9413-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-d98d9413-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-d98d9413-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-57a96280",
+      "seriesId": "cd47ac9b",
+      "seriesName": "MINECRAFT",
+      "title": "MINECRAFT カラフルキーボードチャーム（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/04/1000248531_1-258x300.jpg",
+      "items": [
+        {
+          "id": "gi-57a96280-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-57a96280-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-57a96280-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-57a96280-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-a471d81d",
+      "seriesId": "33c805b7",
+      "seriesName": "くま",
+      "title": "たかはたまさお 木彫り風 FIGURE COLLECTION（再販）",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/02/1000245344_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-a471d81d-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-a471d81d-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-a471d81d-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-a471d81d-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-a471d81d-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-3f3c9eaa",
+      "seriesId": "61418566",
+      "seriesName": "ケロロ軍曹",
+      "title": "ケロロ軍曹 ちびケロめじるしアクセサリーであります（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/11/1000243168_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-3f3c9eaa-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-3f3c9eaa-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-3f3c9eaa-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-3f3c9eaa-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-3f3c9eaa-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-622a09e3",
+      "seriesId": "9b80faca",
+      "seriesName": "芸能人・アイドル",
+      "title": "MINITEEN ぷっくりめじるしアクセサリー（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/01/1000243173_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-622a09e3-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-622a09e3-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-622a09e3-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-622a09e3-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-622a09e3-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-622a09e3-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-622a09e3-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-622a09e3-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-7b16bdaf",
+      "seriesId": "gundam",
+      "seriesName": "ガンダム",
+      "title": "機動戦士ガンダム ROBOT魂 ミニチュアコレクション（再販）",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/11/1000240826_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-7b16bdaf-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-7b16bdaf-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-7b16bdaf-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-7b16bdaf-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-74059ff7",
+      "seriesId": "shinchan",
+      "seriesName": "クレヨンしんちゃん",
+      "title": "クレヨンしんちゃん ミニチュアパッケージコレクション２（再販）",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/12/1000241576_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-74059ff7-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-74059ff7-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-74059ff7-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-74059ff7-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-74059ff7-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-1244a711",
+      "seriesId": "snoopy",
+      "seriesName": "スヌーピー",
+      "title": "PEANUTS めじるしアクセサリー FUNNY ver.（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/12/1000241578_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-1244a711-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-1244a711-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-1244a711-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-1244a711-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-1244a711-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-1244a711-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        }
+      ]
+    },
+    {
+      "id": "gi-0ec4f629",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ 夢みるエンジェルスイング2（再販）",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/04/1000227905_1-257x300.jpg",
+      "items": [
+        {
+          "id": "gi-0ec4f629-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-0ec4f629-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-0ec4f629-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-0ec4f629-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-0ec4f629-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-0ec4f629-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        }
+      ]
+    },
+    {
+      "id": "gi-4d0c0336",
+      "seriesId": "3ea9cccf",
+      "seriesName": "ハムスター・齧歯類",
+      "title": "カピバラさん めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.11",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/1000209596_1-258x300.jpg",
+      "items": [
+        {
+          "id": "gi-4d0c0336-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-4d0c0336-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-4d0c0336-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-4d0c0336-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-4d0c0336-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-4d0c0336-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        }
+      ]
+    },
+    {
+      "id": "gi-3c87d132",
+      "seriesId": "3d4f3114",
+      "seriesName": "とっとこハム太郎",
+      "title": "とっとこハム太郎 ぬいぐるみスマホチャーム",
+      "maker": "夢屋",
+      "price": 500,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/hamutarou_nuigurumi-smartphone_charmDP05b-scaled-1-257x300.webp",
+      "items": [
+        {
+          "id": "gi-3c87d132-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-3c87d132-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-3c87d132-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-3c87d132-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-e5c46800",
+      "seriesId": "db0a63d1",
+      "seriesName": "魚・水中の生き物",
+      "title": "NTC MONO+ ダンゴウオ めじるしマスコット",
+      "maker": "いきもん",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HUGcdNbb0AEOtYI-300x281.jpg",
+      "items": [
+        {
+          "id": "gi-e5c46800-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-e5c46800-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-e5c46800-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-e5c46800-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-e5c46800-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-e5c46800-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-e5c46800-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-e5c46800-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-1ffc7baf",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "赤の他人の白猫の証明写真",
+      "maker": "奇人クラブ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HT1qoxHaEAA4PYf-239x300.jpg",
+      "items": [
+        {
+          "id": "gi-1ffc7baf-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-1ffc7baf-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-1ffc7baf-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-1ffc7baf-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-1ffc7baf-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-1ffc7baf-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-1ffc7baf-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-1ffc7baf-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-5118d076",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "赤の他人のサイベリアンの証明写真",
+      "maker": "奇人クラブ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HUFktupacAAQPhe-241x300.jpg",
+      "items": [
+        {
+          "id": "gi-5118d076-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-5118d076-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-5118d076-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-5118d076-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-5118d076-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-5118d076-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        },
+        {
+          "id": "gi-5118d076-6",
+          "name": "アイテム7",
+          "topColor": "#ec4899",
+          "bottomColor": "#f9a8d4",
+          "charColor": "#ec4899"
+        },
+        {
+          "id": "gi-5118d076-7",
+          "name": "アイテム8",
+          "topColor": "#06b6d4",
+          "bottomColor": "#67e8f9",
+          "charColor": "#06b6d4"
+        }
+      ]
+    },
+    {
+      "id": "gi-eadbd6ce",
+      "seriesId": "db0a63d1",
+      "seriesName": "魚・水中の生き物",
+      "title": "海の生き物のぬいぐるみ",
+      "maker": "クオリア",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/107027_800x930-258x300.jpg",
+      "items": [
+        {
+          "id": "gi-eadbd6ce-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-eadbd6ce-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-eadbd6ce-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-eadbd6ce-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-eadbd6ce-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-db40605e",
+      "seriesId": "debfa72f",
+      "seriesName": "歴史・文明",
+      "title": "ミイラの寝相 マスコットフィギュア",
+      "maker": "クオリア",
+      "price": 400,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HTCXIWcbMAAr2c4-300x270.jpg",
+      "items": [
+        {
+          "id": "gi-db40605e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-db40605e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-db40605e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-db40605e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-db40605e-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-0bebd12a",
+      "seriesId": "61e625d0",
+      "seriesName": "飲み物",
+      "title": "酔いスキー 長期熟成ver. マスコットフィギュア（再販）",
+      "maker": "クオリア",
+      "price": 400,
+      "category": "gacha",
+      "release": "2026.09",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2025/11/G6qvYZlbEAAIpd_-300x270.jpg",
+      "items": [
+        {
+          "id": "gi-0bebd12a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-0bebd12a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-0bebd12a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-0bebd12a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-0bebd12a-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-401a4909",
+      "seriesId": "pandanoana",
+      "seriesName": "パンダの穴",
+      "title": "パンダの穴 わんわんおでん めじるしガチャマスコット",
+      "maker": "タカラトミーアーツ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2027.01",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HTg4mUUbMAAK_wp-225x300.jpg",
+      "items": [
+        {
+          "id": "gi-401a4909-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-401a4909-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-401a4909-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-401a4909-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-401a4909-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "gi-fe2d0a1e",
+      "seriesId": "pandanoana",
+      "seriesName": "パンダの穴",
+      "title": "パンダの穴 顔ゴリラ めじるしガチャマスコット",
+      "maker": "タカラトミーアーツ",
+      "price": 300,
+      "category": "gacha",
+      "release": "2027.02",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HTX145ObIAE0QT0-225x300.jpg",
+      "items": [
+        {
+          "id": "gi-fe2d0a1e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-fe2d0a1e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-fe2d0a1e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-fe2d0a1e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-fe2d0a1e-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        },
+        {
+          "id": "gi-fe2d0a1e-5",
+          "name": "アイテム6",
+          "topColor": "#8b5cf6",
+          "bottomColor": "#c4b5fd",
+          "charColor": "#8b5cf6"
+        }
+      ]
+    },
+    {
+      "id": "gi-e95819f7",
+      "seriesId": "4b256d51",
+      "seriesName": "フルーツ",
+      "title": "コスメとメイクボックス ストロベリー",
+      "maker": "ターリン",
+      "price": 300,
+      "category": "gacha",
+      "release": "2026.10",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/HT1uZrGbwAAPs3N-256x300.jpg",
+      "items": [
+        {
+          "id": "gi-e95819f7-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-e95819f7-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-e95819f7-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-e95819f7-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "gi-b301f1b6",
+      "seriesId": "06ffe735",
+      "seriesName": "音楽・楽器",
+      "title": "hide めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gacha",
+      "release": "2027.02",
+      "imageUrl": "https://gacha-island.jp/wp-content/uploads/2026/10/hide_mejirushi_main_2-300x300.jpg",
+      "items": [
+        {
+          "id": "gi-b301f1b6-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "gi-b301f1b6-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "gi-b301f1b6-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "gi-b301f1b6-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        },
+        {
+          "id": "gi-b301f1b6-4",
+          "name": "アイテム5",
+          "topColor": "#3b82f6",
+          "bottomColor": "#93c5fd",
+          "charColor": "#3b82f6"
+        }
+      ]
+    },
+    {
+      "id": "bd-58719d71",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ロボット パルタ めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259592_2.jpg",
+      "items": [
+        {
+          "id": "bd-58719d71-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-58719d71-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-58719d71-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-58719d71-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-87e0187e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "るかっぷミニチュアコレクション 銀魂",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259512_1.jpg",
+      "items": [
+        {
+          "id": "bd-87e0187e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-87e0187e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-87e0187e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-87e0187e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-9fed402b",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "パワーパフ ガールズ めじるしアクセサリー3",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259557_2.jpg",
+      "items": [
+        {
+          "id": "bd-9fed402b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-9fed402b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-9fed402b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-9fed402b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-897a3554",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "グレムリン ぬいぐるみマスコット",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259556_2.jpg",
+      "items": [
+        {
+          "id": "bd-897a3554-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-897a3554-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-897a3554-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-897a3554-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ea54982b",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ざわざわ森のがんこちゃん ミニチュアパッケージチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259555_2.jpg",
+      "items": [
+        {
+          "id": "bd-ea54982b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ea54982b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ea54982b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ea54982b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b7216819",
+      "seriesId": "anpanman",
+      "seriesName": "アンパンマン",
+      "title": "それいけ！アンパンマン くるりんフェイスアンパンマン",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259580_1.jpg",
+      "items": [
+        {
+          "id": "bd-b7216819-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b7216819-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b7216819-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b7216819-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-027973bc",
+      "seriesId": "disney",
+      "seriesName": "ディズニー",
+      "title": "“ディズニーキャラクター” なかよしペアスイング3",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259579_2.jpg",
+      "items": [
+        {
+          "id": "bd-027973bc-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-027973bc-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-027973bc-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-027973bc-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-9f14790a",
+      "seriesId": "disney",
+      "seriesName": "ディズニー",
+      "title": "“ディズニーキャラクター” クリスタルめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259578_2.jpg",
+      "items": [
+        {
+          "id": "bd-9f14790a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-9f14790a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-9f14790a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-9f14790a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-2a2cebff",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "東野圭吾 『ガリレオ』シリーズ ブックチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259583_2.jpg",
+      "items": [
+        {
+          "id": "bd-2a2cebff-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-2a2cebff-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-2a2cebff-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-2a2cebff-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-8dd96bd3",
+      "seriesId": "doraemon",
+      "seriesName": "ドラえもん",
+      "title": "ドラえもん ベーカリーチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259582_2.jpg",
+      "items": [
+        {
+          "id": "bd-8dd96bd3-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-8dd96bd3-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-8dd96bd3-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-8dd96bd3-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-55542371",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ジュエルペット キラキラミラー風コレクション",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259581_2.jpg",
+      "items": [
+        {
+          "id": "bd-55542371-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-55542371-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-55542371-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-55542371-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-6f861f98",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "テレタビーズ カラふるリングチャーム",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259586_2.jpg",
+      "items": [
+        {
+          "id": "bd-6f861f98-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-6f861f98-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-6f861f98-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-6f861f98-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-45ba8679",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "beco+81 ライトマスコット",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259585_2.jpg",
+      "items": [
+        {
+          "id": "bd-45ba8679-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-45ba8679-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-45ba8679-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-45ba8679-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b1d39e04",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ハリー・ポッター ディスプレイコレクション～魔法の杖～",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259590_2.jpg",
+      "items": [
+        {
+          "id": "bd-b1d39e04-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b1d39e04-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b1d39e04-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b1d39e04-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b75f6b7d",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "きらりん☆レボリューション つまんでつなげてますこっと",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259589_2.jpg",
+      "items": [
+        {
+          "id": "bd-b75f6b7d-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b75f6b7d-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b75f6b7d-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b75f6b7d-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-4b123f80",
+      "seriesId": "precure",
+      "seriesName": "プリキュア",
+      "title": "プリキュアオールスターズ 変身めじるしアクセサリー２",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259554_2.jpg",
+      "items": [
+        {
+          "id": "bd-4b123f80-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-4b123f80-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-4b123f80-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-4b123f80-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-bd196639",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "怒ったおおきいわんぴーすわんちゃあぁぁん2",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259588_2.jpg",
+      "items": [
+        {
+          "id": "bd-bd196639-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-bd196639-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-bd196639-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-bd196639-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-6370f01b",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "アニメ「桜蘭高校ホスト部」 つまんでつなげてますこっと",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259591_2.jpg",
+      "items": [
+        {
+          "id": "bd-6370f01b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-6370f01b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-6370f01b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-6370f01b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-3efc6763",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "おジャ魔女どれみ めじるしアクセサリー ポロンタップver.2",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259587_2.jpg",
+      "items": [
+        {
+          "id": "bd-3efc6763-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-3efc6763-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-3efc6763-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-3efc6763-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-e8759f02",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "勝利の女神：NIKKE まちぼうけ",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259584_2.jpg",
+      "items": [
+        {
+          "id": "bd-e8759f02-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-e8759f02-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-e8759f02-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-e8759f02-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-8007fc31",
+      "seriesId": "mofusand",
+      "seriesName": "mofusand",
+      "title": "mofusand 宇宙飛行士にゃん",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259577_2.jpg",
+      "items": [
+        {
+          "id": "bd-8007fc31-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-8007fc31-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-8007fc31-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-8007fc31-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-2001ff1a",
+      "seriesId": "gundam",
+      "seriesName": "ガンダム",
+      "title": "機動戦士ガンダム CAPSULE INDEX 04",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259576_2.jpg",
+      "items": [
+        {
+          "id": "bd-2001ff1a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-2001ff1a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-2001ff1a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-2001ff1a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b471b8ec",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "初音ミク めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259575_2.jpg",
+      "items": [
+        {
+          "id": "bd-b471b8ec-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b471b8ec-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b471b8ec-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b471b8ec-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b823fe69",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "TOM and JERRY なりきりハンバーガーマスコットチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259574_2.jpg",
+      "items": [
+        {
+          "id": "bd-b823fe69-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b823fe69-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b823fe69-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b823fe69-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-e3e01c8a",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "JRはたらく電車 カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259573_2.jpg",
+      "items": [
+        {
+          "id": "bd-e3e01c8a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-e3e01c8a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-e3e01c8a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-e3e01c8a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-5723e459",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "逆転裁判 つまんでつなげてますこっと",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259572_2.jpg",
+      "items": [
+        {
+          "id": "bd-5723e459-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-5723e459-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-5723e459-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-5723e459-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-5f7effea",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "じょせまる ミニチュアパッケージチャーム",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259571_2.jpg",
+      "items": [
+        {
+          "id": "bd-5f7effea-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-5f7effea-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-5f7effea-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-5f7effea-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-fa44b1fb",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "“ピクサーキャラクター” 手作りおやつチャーム #しぼりクッキー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259570_2.jpg",
+      "items": [
+        {
+          "id": "bd-fa44b1fb-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-fa44b1fb-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-fa44b1fb-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-fa44b1fb-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ef8e260a",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "いちご100％ Comics Charm Collection02",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259569_2.jpg",
+      "items": [
+        {
+          "id": "bd-ef8e260a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ef8e260a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ef8e260a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ef8e260a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c07848f3",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "モンチッチ ふわふわカラともマスコット",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259568_2.jpg",
+      "items": [
+        {
+          "id": "bd-c07848f3-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c07848f3-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c07848f3-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c07848f3-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-1bdf8cf1",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "お文具といっしょ カプセルラバーマスコット～おでんであったまるんです～",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259567_2.jpg",
+      "items": [
+        {
+          "id": "bd-1bdf8cf1-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-1bdf8cf1-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-1bdf8cf1-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-1bdf8cf1-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-79f3c3b5",
+      "seriesId": "conan",
+      "seriesName": "名探偵コナン",
+      "title": "名探偵コナン ぎゅーこっと2",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259566_2.jpg",
+      "items": [
+        {
+          "id": "bd-79f3c3b5-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-79f3c3b5-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-79f3c3b5-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-79f3c3b5-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-50e6d52a",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】クマども FIGURE COLLECTION",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259565_2.jpg",
+      "items": [
+        {
+          "id": "bd-50e6d52a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-50e6d52a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-50e6d52a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-50e6d52a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c90f646c",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】SANRIO CHARACTERS Sugar & Spice",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259564_2.jpg",
+      "items": [
+        {
+          "id": "bd-c90f646c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c90f646c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c90f646c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c90f646c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-4290087f",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ バレリーナめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259563_2.jpg",
+      "items": [
+        {
+          "id": "bd-4290087f-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-4290087f-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-4290087f-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-4290087f-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-2a0fd63f",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "カードキャプターさくら 桜マスコットチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259562_2.jpg",
+      "items": [
+        {
+          "id": "bd-2a0fd63f-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-2a0fd63f-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-2a0fd63f-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-2a0fd63f-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ebcb67cb",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "メイドインアビス めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259561_2.jpg",
+      "items": [
+        {
+          "id": "bd-ebcb67cb-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ebcb67cb-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ebcb67cb-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ebcb67cb-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-a38609f4",
+      "seriesId": "onepiece",
+      "seriesName": "ワンピース",
+      "title": "From TV animation ONE PIECE ワンピの実 第二十七海戦",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259560_2.jpg",
+      "items": [
+        {
+          "id": "bd-a38609f4-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-a38609f4-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-a38609f4-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-a38609f4-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-9d989e7e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "銀魂 めじるしアクセサリー3 ～身に着けている物で趣味が大体分かる～",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259559_2.jpg",
+      "items": [
+        {
+          "id": "bd-9d989e7e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-9d989e7e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-9d989e7e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-9d989e7e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-f12b1fb0",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【CAP'in GALLERY】Mooney the Ghost by Koichi Yairi フィギュアコレクション",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259558_2.jpg",
+      "items": [
+        {
+          "id": "bd-f12b1fb0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-f12b1fb0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-f12b1fb0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-f12b1fb0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-34f77613",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "リメンバー・ミー スイングマスコット",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259553_2.jpg",
+      "items": [
+        {
+          "id": "bd-34f77613-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-34f77613-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-34f77613-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-34f77613-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-d55e175d",
+      "seriesId": "disney",
+      "seriesName": "ディズニー",
+      "title": "“ディズニーキャラクター” Holidayオーナメントチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259552_2.jpg",
+      "items": [
+        {
+          "id": "bd-d55e175d-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-d55e175d-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-d55e175d-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-d55e175d-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c26f1dcb",
+      "seriesId": "disney",
+      "seriesName": "ディズニー",
+      "title": "“ディズニーキャラクター” 雪だるまふわふわめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259551_2.jpg",
+      "items": [
+        {
+          "id": "bd-c26f1dcb-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c26f1dcb-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c26f1dcb-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c26f1dcb-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-10e5ef82",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ 雪だるまふわふわめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259550_2.jpg",
+      "items": [
+        {
+          "id": "bd-10e5ef82-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-10e5ef82-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-10e5ef82-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-10e5ef82-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-fef53e71",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "さんりおきゃらくたぁず 和みの抹茶ふぃぎゅあ",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259549_2.jpg",
+      "items": [
+        {
+          "id": "bd-fef53e71-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-fef53e71-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-fef53e71-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-fef53e71-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b3babada",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "みいつけた！ カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259548_2.jpg",
+      "items": [
+        {
+          "id": "bd-b3babada-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b3babada-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b3babada-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b3babada-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-dfdbfbe0",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "よこみぞゆりのなんでもいきもの ふわふわめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259547_2.jpg",
+      "items": [
+        {
+          "id": "bd-dfdbfbe0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-dfdbfbe0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-dfdbfbe0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-dfdbfbe0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-5cc2233e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "mojojojo めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259546_2.jpg",
+      "items": [
+        {
+          "id": "bd-5cc2233e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-5cc2233e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-5cc2233e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-5cc2233e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-6244f64d",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "まちぼうけ ダイナーの場合",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259545_2.jpg",
+      "items": [
+        {
+          "id": "bd-6244f64d-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-6244f64d-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-6244f64d-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-6244f64d-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-6945da83",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ 星座スイングマスコットPART1",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259544_2.jpg",
+      "items": [
+        {
+          "id": "bd-6945da83-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-6945da83-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-6945da83-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-6945da83-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c922d690",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ 星座スイングマスコットPART2",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259543_2.jpg",
+      "items": [
+        {
+          "id": "bd-c922d690-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c922d690-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c922d690-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c922d690-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-96733817",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ケアベア™ カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259542_2.jpg",
+      "items": [
+        {
+          "id": "bd-96733817-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-96733817-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-96733817-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-96733817-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-04517559",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "こんなこいるかな フォトフレームマスコット",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259541_2.jpg",
+      "items": [
+        {
+          "id": "bd-04517559-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-04517559-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-04517559-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-04517559-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-d398ef41",
+      "seriesId": "tamagotchi",
+      "seriesName": "たまごっち",
+      "title": "たまごっち めじるしアクセサリー 30th anniversary edition",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259540_2.jpg",
+      "items": [
+        {
+          "id": "bd-d398ef41-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-d398ef41-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-d398ef41-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-d398ef41-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ef87b7d0",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "なめこ栽培キット ミニチュアパッケージチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259594_2.jpg",
+      "items": [
+        {
+          "id": "bd-ef87b7d0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ef87b7d0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ef87b7d0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ef87b7d0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-f4711b24",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "牧場物語 スイングコレクション",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259538_2.jpg",
+      "items": [
+        {
+          "id": "bd-f4711b24-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-f4711b24-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-f4711b24-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-f4711b24-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-4ded2b39",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "のびのび！ぼにゃる ねこちゃあぁぁん",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259537_2.jpg",
+      "items": [
+        {
+          "id": "bd-4ded2b39-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-4ded2b39-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-4ded2b39-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-4ded2b39-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-84b230db",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "いきもの大図鑑アドバンス クワガタ03",
+      "maker": "バンダイ",
+      "price": 1500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259536_2.jpg",
+      "items": [
+        {
+          "id": "bd-84b230db-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-84b230db-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-84b230db-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-84b230db-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-44a140b2",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "SIROCARA めじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259535_2.jpg",
+      "items": [
+        {
+          "id": "bd-44a140b2-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-44a140b2-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-44a140b2-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-44a140b2-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-ca194d30",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ニャンちゅう カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259534_2.jpg",
+      "items": [
+        {
+          "id": "bd-ca194d30-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-ca194d30-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-ca194d30-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-ca194d30-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-90933881",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "Lil ala mode スイングコレクション ～天使と悪魔～",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259533_2.jpg",
+      "items": [
+        {
+          "id": "bd-90933881-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-90933881-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-90933881-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-90933881-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-281a477c",
+      "seriesId": "pokemon",
+      "seriesName": "ポケモン",
+      "title": "ポケットモンスター スイングコレクションType:Water",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259532_2.jpg",
+      "items": [
+        {
+          "id": "bd-281a477c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-281a477c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-281a477c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-281a477c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-06f4a5d2",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "まちぼうけ 冬の場合 その2",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259531_2.jpg",
+      "items": [
+        {
+          "id": "bd-06f4a5d2-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-06f4a5d2-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-06f4a5d2-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-06f4a5d2-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-4ac47dda",
+      "seriesId": "shinchan",
+      "seriesName": "クレヨンしんちゃん",
+      "title": "クレヨンしんちゃん まちぼうけ8 『映画クレヨンしんちゃん 暗黒タマタマ大追跡』",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259530_2.jpg",
+      "items": [
+        {
+          "id": "bd-4ac47dda-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-4ac47dda-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-4ac47dda-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-4ac47dda-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-6587f93c",
+      "seriesId": "shinchan",
+      "seriesName": "クレヨンしんちゃん",
+      "title": "クレヨンしんちゃん カラともマスコット",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259529_2.jpg",
+      "items": [
+        {
+          "id": "bd-6587f93c-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-6587f93c-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-6587f93c-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-6587f93c-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-e41f2404",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ナルミヤキャラクターズ めじるしアクセサリー2",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259528_2.jpg",
+      "items": [
+        {
+          "id": "bd-e41f2404-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-e41f2404-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-e41f2404-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-e41f2404-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-e18e3316",
+      "seriesId": "frieren",
+      "seriesName": "葬送のフリーレン",
+      "title": "＃ハッシュタグつける 葬送のフリーレン",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259527_2.jpg",
+      "items": [
+        {
+          "id": "bd-e18e3316-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-e18e3316-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-e18e3316-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-e18e3316-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-a79b6b14",
+      "seriesId": "haikyu",
+      "seriesName": "ハイキュー!!",
+      "title": "ハイキュー!! ねむらせ隊3",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259526_2.jpg",
+      "items": [
+        {
+          "id": "bd-a79b6b14-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-a79b6b14-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-a79b6b14-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-a79b6b14-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-73dd46e0",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "PROJECT R.E.D. まちぼうけ",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259525_2.jpg",
+      "items": [
+        {
+          "id": "bd-73dd46e0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-73dd46e0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-73dd46e0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-73dd46e0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-16c92e57",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "チロルチョコ めじるしアクセサリー2",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259524_2.jpg",
+      "items": [
+        {
+          "id": "bd-16c92e57-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-16c92e57-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-16c92e57-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-16c92e57-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-26e46b1a",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ホロライブ カラフルカラビナもふしっぽマスコット",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259523_1.jpg",
+      "items": [
+        {
+          "id": "bd-26e46b1a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-26e46b1a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-26e46b1a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-26e46b1a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-a2c6ea26",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "コンタック カラフルマルチチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259522_2.jpg",
+      "items": [
+        {
+          "id": "bd-a2c6ea26-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-a2c6ea26-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-a2c6ea26-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-a2c6ea26-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-63283216",
+      "seriesId": "ultraman",
+      "seriesName": "ウルトラマン",
+      "title": "ウルトラマン ウルトラ怪獣ぽんちょめじるしアクセサリー",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259521_2.jpg",
+      "items": [
+        {
+          "id": "bd-63283216-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-63283216-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-63283216-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-63283216-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-2129aa84",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ フロッキークリップ～ラテクマデザイン～",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259520_2.jpg",
+      "items": [
+        {
+          "id": "bd-2129aa84-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-2129aa84-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-2129aa84-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-2129aa84-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-e69cee22",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【フラットガシャポン】シュガーバニーズ クリアラバーコースター",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259519_2.jpg",
+      "items": [
+        {
+          "id": "bd-e69cee22-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-e69cee22-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-e69cee22-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-e69cee22-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-f8ab8a3e",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "タコピーの原罪 めじるしアクセサリー ハッピーキラキラver.",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259518_2.jpg",
+      "items": [
+        {
+          "id": "bd-f8ab8a3e-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-f8ab8a3e-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-f8ab8a3e-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-f8ab8a3e-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-29ce918a",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "メゾピアノ グッズコレクション",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259517_2.jpg",
+      "items": [
+        {
+          "id": "bd-29ce918a-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-29ce918a-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-29ce918a-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-29ce918a-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-61264cdc",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "キングダム Comics Charm Collection",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259516_2.jpg",
+      "items": [
+        {
+          "id": "bd-61264cdc-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-61264cdc-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-61264cdc-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-61264cdc-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-89d4ce3b",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "【フラットガシャポン】キングダム ポスターコレクション",
+      "maker": "バンダイ",
+      "price": 400,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259515_2.jpg",
+      "items": [
+        {
+          "id": "bd-89d4ce3b-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-89d4ce3b-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-89d4ce3b-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-89d4ce3b-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-c59bf9f7",
+      "seriesId": "chiikawa",
+      "seriesName": "ちいかわ",
+      "title": "ポンデクルール ちいかわ マルチカラーパウダー",
+      "maker": "バンダイ",
+      "price": 500,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259513_2.jpg",
+      "items": [
+        {
+          "id": "bd-c59bf9f7-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-c59bf9f7-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-c59bf9f7-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-c59bf9f7-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-f2363ac0",
+      "seriesId": "shinchan",
+      "seriesName": "クレヨンしんちゃん",
+      "title": "ちびまる子ちゃん×クレヨンしんちゃん ラバーマスコット",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000259514_2.jpg",
+      "items": [
+        {
+          "id": "bd-f2363ac0-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-f2363ac0-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-f2363ac0-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-f2363ac0-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-0847ce64",
+      "seriesId": "sanrio",
+      "seriesName": "サンリオ",
+      "title": "サンリオキャラクターズ がんばれないチャーム",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://bandai-a.akamaihd.net/bc/img/model/b/1000258578_1.jpg",
+      "items": [
+        {
+          "id": "bd-0847ce64-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-0847ce64-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-0847ce64-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-0847ce64-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
+    },
+    {
+      "id": "bd-b7a33ddb",
+      "seriesId": "other",
+      "seriesName": "その他",
+      "title": "ガシャポンメンバーズ景品ガシャポン(アソートコレクション)",
+      "maker": "バンダイ",
+      "price": 300,
+      "category": "gashapon",
+      "release": "2026.10",
+      "imageUrl": "https://gashapon.jp/images/prize_gashapon/アソートコレクションDP.jpg",
+      "items": [
+        {
+          "id": "bd-b7a33ddb-0",
+          "name": "アイテム1",
+          "topColor": "#ef4444",
+          "bottomColor": "#fca5a5",
+          "charColor": "#ef4444"
+        },
+        {
+          "id": "bd-b7a33ddb-1",
+          "name": "アイテム2",
+          "topColor": "#f97316",
+          "bottomColor": "#fdba74",
+          "charColor": "#f97316"
+        },
+        {
+          "id": "bd-b7a33ddb-2",
+          "name": "アイテム3",
+          "topColor": "#eab308",
+          "bottomColor": "#fde047",
+          "charColor": "#eab308"
+        },
+        {
+          "id": "bd-b7a33ddb-3",
+          "name": "アイテム4",
+          "topColor": "#22c55e",
+          "bottomColor": "#86efac",
+          "charColor": "#22c55e"
+        }
+      ]
     }
   ],
-  "lastChecked": "2026-10-05"
+  "lastChecked": "2026-10-12"
 }
